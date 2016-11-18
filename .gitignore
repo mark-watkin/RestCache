@@ -13,8 +13,8 @@ packages/
 _ReSharper.*/
 *.sdf
 bin/
-*/obj/
-*/Debug/
+**/obj/
+**/Debug/
 Release/
 *.opensdf
 *.tlog
