@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RestCache.Core.Test")]
+[assembly: AssemblyProduct("RestCache.WebApi2")]
 [assembly: AssemblyTrademark("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
@@ -16,4 +16,4 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("6fbafd70-da27-4761-9ca4-2ee873845527")]
+[assembly: Guid("7f186e4e-cf58-42bb-9be7-d3ab55b5435c")]
